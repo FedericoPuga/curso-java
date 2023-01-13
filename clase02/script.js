@@ -44,11 +44,11 @@ else if (precio < 100) {
 }
 else {
     alert("El precio es mayor que 100");
-} */
+} 
+ */
 
 
-
- let edad = 23
+/* let edad = 23
 
 edad = prompt ("para acceder ingresa tu edad.")
 
@@ -58,6 +58,6 @@ if (edad < 18){
     alert("Bienvenido!")
 }else if(typeof edad != "Number"){
     alert("ingrese valor numerico")
-}
+} */
 
 
