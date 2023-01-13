@@ -94,3 +94,5 @@ const producto2 = new Producto("fideo", "50");
 producto1.sumaIva();
 producto2.sumaIva();
 producto1.vender();
+
+/* saber OBJETOS, es lo que mas se usa */
